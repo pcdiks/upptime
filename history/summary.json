@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.kisrow.nl.ico",
     "slug": "wiki",
     "status": "up",
-    "uptime": "99.69%",
+    "uptime": "99.73%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.69%",
-    "time": 1617,
-    "timeDay": 955,
-    "timeWeek": 1617,
-    "timeMonth": 1617,
-    "timeYear": 1617,
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
+    "time": 1568,
+    "timeDay": 727,
+    "timeWeek": 1719,
+    "timeMonth": 1568,
+    "timeYear": 1568,
     "dailyMinutesDown": {
       "2025-04-28": 30
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 516,
-    "timeDay": 818,
-    "timeWeek": 516,
-    "timeMonth": 516,
-    "timeYear": 516,
+    "time": 482,
+    "timeDay": 147,
+    "timeWeek": 493,
+    "timeMonth": 482,
+    "timeYear": 482,
     "dailyMinutesDown": {}
   }
 ]
